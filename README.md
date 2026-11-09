@@ -19,3 +19,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
+URL: https://meal-tracker-onq9pzsapawkruldr4bzis.streamlit.app/ 
+
+
